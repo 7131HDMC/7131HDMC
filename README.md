@@ -26,6 +26,18 @@ Wanna Talk? Hit me up here:
 </br>
 
 ## ⚡ Skills
+
+####
+
+ `Curiosity`<br/>
+ `Assertive communication`<br/>
+ `Expectation management`<br/>
+ `Programming logic`<br/>
+ `Problem solver`<br/>
+ `Algorithms and data structure`<br/>
+ `Coding and testing skills`<br/>
+ `Open to changes and new challenges` <br/>
+
 Computer Related Skills
 
 ### ⌨️ Programming Languages
