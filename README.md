@@ -1,18 +1,18 @@
-#  👋🕶️ [About me](https://github.com/7131HDMC)
+#  👋❤️ [About me](https://github.com/7131HDMC)
 
 🐍 Hari Dasa Fiuza, the last of my crazy parents.</br>
 ♊ 2001</br>
 💻 Computer Technician - [CEFET-MG Federal Center of Technoligical Education of Minas Gerais](https://www.cefetmg.br).</br>
 🏠 I’m currently living at Belo Horizonte - MG , Brazil 🇧🇷. <br/>
-👨‍💻 I’m a Software Engineer , Full-Stack Developer.<br/>
+🎯 I’m a Software Engineer , Full-Stack Developer.<br/>
 💸 Currently on board of [Codificar](https://codificar.com.br) as Full-Stack developer, working with PHP and React Native in logistic project</br>
 🔭 I’m looking to improve myself and solve problems around me.<br/>
-👁️‍🗨️ I speak Portuguese, English.</br>
+👄 I speak Portuguese, English.</br>
 💬 Trying to learn Japanese. `trying my best`<br/>
-😎 My hobbies are 📖📚 reading, 🍳🔪 cooking and play volleyball.</br>
-🎩 I am a startup enthusiast , love to talk about new projects and real problems.</br> 
+☕ My hobbies are 📖📚 reading, 🍳🔪 cooking and play volleyball.</br>
+👥 I am a startup enthusiast , love to talk about new projects and real problems.</br> 
 👽 People consider me a proactive, creative guy and a problem solver .</br>
-🍕 Always open to new challenges and projects.</br>
+🚪 Always open to new challenges and projects.</br>
 
 ### 🌐 Social Links:
 
@@ -108,7 +108,7 @@ Softwares, Solutions, Operational Systems, Text Editor and Others...
 
 Don't notice, i've way more commits on companies private projects.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=7131HDMC&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7131HDMC&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=7131HDMC&count_private=true&show_icons=true&theme=gotham&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7131HDMC&layout=compact&theme=gotham)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=7131HDMC.7131HDMC)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=7131HDMC.7131HDMC&theme=gotham)
