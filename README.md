@@ -1,11 +1,11 @@
 #  👋❤️ [About me](https://github.com/7131HDMC)
 
-🐍 Hari Dasa Fiuza, the last of my crazy parents.</br>
+🐍 Hari Dasa Fiuza, the last one of my crazy parents.</br>
 ♊ 2001</br>
 💻 Computer Technician - [CEFET-MG Centro Federal de Educação Tecnológica de Minas Gerais](https://www.cefetmg.br).</br>
-🏠 I’m currently living at Belo Horizonte - MG , Brazil 🇧🇷. <br/>
+🏠 I’m currently living in Belo Horizonte - MG , Brazil 🇧🇷. <br/>
 🎯 I’m a Software Engineer , Full-Stack Developer.<br/>
-💸 Currently on board of [Codificar](https://codificar.com.br) as Full-Stack developer, working with PHP and React Native in logistic project</br>
+💸 Currently on board of [Codificar](https://codificar.com.br) as Full-Stack developer, working with PHP and React Native in logistic projects</br>
 🔭 I’m looking to improve myself and solve problems around me.<br/>
 👄 I speak Portuguese and English.</br>
 💬 Trying to learn Japanese. `trying my best`<br/>
@@ -45,20 +45,19 @@ In order of knowledge/priority
 
 ![PHP](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=sql)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
 ![Bash](https://img.shields.io/badge/-Bash-black?style=for-the-badge&logo=gnubash)
 ![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=cplusplus)
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java)
+![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c)
 ![Kotlin](https://img.shields.io/badge/-kotlin-black?style=for-the-badge&logo=kotlin)
 ![Swift](https://img.shields.io/badge/-Swift-black?style=for-the-badge&logo=Swift)
-![C](https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
 
 ### 🧠 Frameworks
-Frameworks i worked with i know i can be of help
+Frameworks with expertise
 
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=for-the-badge&logo=laravel)
 ![React Native](https://img.shields.io/badge/-React%20Native-black?style=for-the-badge&logo=react)
