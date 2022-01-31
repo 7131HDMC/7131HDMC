@@ -2,14 +2,14 @@
 
 🐍 Hari Dasa Fiuza, the last of my crazy parents.</br>
 ♊ 2001</br>
-💻 Computer Technician - [CEFET-MG Federal Center of Technoligical Education of Minas Gerais](https://www.cefetmg.br).</br>
+💻 Computer Technician - [CEFET-MG Centro Federal de Educação Tecnológica de Minas Gerais](https://www.cefetmg.br).</br>
 🏠 I’m currently living at Belo Horizonte - MG , Brazil 🇧🇷. <br/>
 🎯 I’m a Software Engineer , Full-Stack Developer.<br/>
 💸 Currently on board of [Codificar](https://codificar.com.br) as Full-Stack developer, working with PHP and React Native in logistic project</br>
 🔭 I’m looking to improve myself and solve problems around me.<br/>
-👄 I speak Portuguese, English.</br>
+👄 I speak Portuguese and English.</br>
 💬 Trying to learn Japanese. `trying my best`<br/>
-☕ My hobbies are 📖📚 reading, 🍳🔪 cooking and play volleyball.</br>
+☕ My hobbies are 📖📚 reading, 🍳🔪 cooking and playing.</br>
 👥 I am a startup enthusiast , love to talk about new projects and real problems.</br> 
 👽 People consider me a proactive, creative guy and a problem solver .</br>
 🚪 Always open to new challenges and projects.</br>
@@ -62,13 +62,13 @@ Frameworks i worked with i know i can be of help
 
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=for-the-badge&logo=laravel)
 ![React Native](https://img.shields.io/badge/-React%20Native-black?style=for-the-badge&logo=react)
-![VueJs](https://img.shields.io/badge/-VueJs-black?style=for-the-badge&logo=vuedotjs)
 ![Cypress](https://img.shields.io/badge/Cypress-black?style=for-the-badge&logo=cypress&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-black?style=for-the-badge&logo=Selenium&logoColor=white)
+![VueJs](https://img.shields.io/badge/-VueJs-black?style=for-the-badge&logo=vuedotjs)
 ![PHP unit](https://img.shields.io/badge/-PHPUnit-black?style=for-the-badge&logo=phpuinit)
 ![Expo](https://img.shields.io/badge/Expo-black?style=for-the-badge&logo=expo&logoColor=white)
 ![Gradle](https://img.shields.io/badge/gradle-black?style=for-the-badge&logo=gradle&logoColor=white)
 ![Jest](https://img.shields.io/badge/jest-black?style=for-the-badge&logo=jest&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-black?style=for-the-badge&logo=Selenium&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-black?style=for-the-badge&logo=Swagger&logoColor=white)
 
 ### 🛠️ Tools
@@ -93,7 +93,6 @@ Softwares, Solutions, Operational Systems, Text Editor and Others...
 ![Vim](https://img.shields.io/badge/-Vim-black?style=for-the-badge&logo=vim)
 ![Nano](https://img.shields.io/badge/-Nano-black?style=for-the-badge&logo=nano)
 ||
-![XML](https://img.shields.io/badge/-Xml-black?style=for-the-badge&logo=Xml)
 ![Json](https://img.shields.io/badge/-Json-black?style=for-the-badge&logo=json)
  ||
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
