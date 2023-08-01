@@ -22,7 +22,7 @@
 ### 🤝 Get in touch
 
 [![Gmail Badge](https://img.shields.io/badge/-haridasafiuza@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haridasafiuza@gmail.com)](mailto:haridasafiuza@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-hari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hari-dasa](https://www.linkedin.com/in/hari-dasa)
+[![Linkedin Badge](https://img.shields.io/badge/-hari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hari-dasa)](https://www.linkedin.com/in/hari-dasa)
 </br>
 
 
