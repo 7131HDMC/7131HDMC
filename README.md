@@ -12,11 +12,11 @@
 👽 People consider me a proactive, creative guy and a problem solver .</br>
 🚪 Always open to new challenges and projects.</br>
 
-## ⚡ I am passionate about
-📈 Machine Learning
-🕸️ Deep Learning
-🧠 Neural Networks
-👀 Computer Vision
+## ⚡ I am passionate about</br>
+📈 Machine Learning</br>
+🕸️ Deep Learning</br>
+🧠 Neural Networks</br>
+👀 Computer Vision</br>
 ####
 
 ### 🤝 Get in touch
