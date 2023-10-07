@@ -26,12 +26,11 @@
 </br>
 
 
-
 ### 🧿 Git Stats
 
 Don't notice, I've way more commits on companies private projects.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=7131HDMC&count_private=true&show_icons=true&theme=gotham&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=7131HDMC&theme=gotham&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7131HDMC&layout=compact&theme=gotham)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=7131HDMC.7131HDMC&theme=gotham)
