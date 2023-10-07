@@ -29,7 +29,7 @@
 
 ### 🧿 Git Stats
 
-Don't notice, i've way more commits on companies private projects.
+Don't notice, I've way more commits on companies private projects.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=7131HDMC&count_private=true&show_icons=true&theme=gotham&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7131HDMC&layout=compact&theme=gotham)
